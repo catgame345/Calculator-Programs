@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*heex": "phoenix-heex",
+        "xstring": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
